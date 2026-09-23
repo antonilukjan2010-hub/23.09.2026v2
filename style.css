@@ -48,6 +48,7 @@ overflow: hidden;
     background-position: center;
     bottom: 0%;;
     animation: girl 2s linear forwards;
+    background-image: url("girl.png");
 }
 
 span {
